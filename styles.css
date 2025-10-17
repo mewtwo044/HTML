@@ -10,6 +10,7 @@ header {
     border-bottom: solid 2px rgb(0, 4, 255);
     padding: 20px;
     font-size: 32px;
+   text-align: center;
     color: rgba(21, 255, 0, 0.884);
 }
 
